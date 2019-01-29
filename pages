@@ -1,0 +1,11 @@
+[
+    
+    {
+  "id": "page001",
+  "title": "Page 001",
+  "image": "page001.jpg",
+  "zoom":  "page001.jpg",
+  "file": "page001.json",
+  "category": "common"
+}
+]
